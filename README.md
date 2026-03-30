@@ -70,8 +70,6 @@ The model does not perform very well as predictions tend to stay around an avera
 - Predictions do not closely follow actual values
 - Indicates underfitting / lack of strong features
 
----
-
 ## Prediction Example
 
 ```python
